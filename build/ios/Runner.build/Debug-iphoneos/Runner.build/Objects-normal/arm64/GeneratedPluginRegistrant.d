@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/Flutter.framework/Headers/Flutter.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/path_provider/path_provider.framework/Headers/FLTPathProviderPlugin.h \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/path_provider/path_provider.framework/Modules/module.modulemap \
+  /Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/build/ios/Debug-iphoneos/path_provider/path_provider.framework/Headers/path_provider-umbrella.h
