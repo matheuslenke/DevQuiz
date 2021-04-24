@@ -4,5 +4,10 @@
       "path": "."
     }
   ],
-  "settings": {}
+  "settings": {
+    "discord.enabled": true
+  },
+  "extensions": {
+    "recommendations": ["dart-code.flutter", "nash.awesome-flutter-snippets", "dart-code.dart-code", "usernamehw.errorlens"]
+  }
 }
