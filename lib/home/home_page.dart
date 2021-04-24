@@ -1,6 +1,8 @@
 import 'package:DevQuiz/core/core.dart';
+import 'package:DevQuiz/home/challenge/challenge_page.dart';
 import 'package:DevQuiz/home/widgets/appbar/app_bar_widget.dart';
 import 'package:DevQuiz/home/widgets/level_button/level_button_widget.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'challenge/widgets/quiz/quiz_widget.dart';
@@ -23,7 +25,7 @@ class _HomePageState extends State<HomePage> {
     controller.getUser();
     controller.getQuizzes();
     controller.stateNotifier.addListener(() {
-      setState((){});
+      setState(() {});
     });
   }
 
@@ -57,12 +59,17 @@ class _HomePageState extends State<HomePage> {
                     crossAxisCount: 2,
                     children: controller.quizzes!
                         .map((e) => QuizCardWidget(
-                              title: e.title,
-                              questionsAnswered: e.questionsAnswered,
-                              questionsLength: e.questions.length,
-                              percent:
-                                  (e.questionsAnswered / e.questions.length),
-                            ))
+                            title: e.title,
+                            questionsAnswered: e.questionsAnswered,
+                            questionsLength: e.questions.length,
+                            percent: (e.questionsAnswered / e.questions.length),
+                            onTap: () {
+                              Navigator.push(
+                                  context,
+                                  CupertinoPageRoute(
+                                      builder: (context) => ChallengePage(
+                                          questions: e.questions)));
+                            }))
                         .toList()),
               )
             ],
