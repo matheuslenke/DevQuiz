@@ -5,7 +5,6 @@ import 'package:DevQuiz/home/widgets/level_button/level_button_widget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'challenge/widgets/quiz/quiz_widget.dart';
 import 'home_controller.dart';
 import 'home_state.dart';
 import 'widgets/quiz_card/quiz_card_widget.dart';
@@ -68,7 +67,8 @@ class _HomePageState extends State<HomePage> {
                                   context,
                                   CupertinoPageRoute(
                                       builder: (context) => ChallengePage(
-                                          questions: e.questions)));
+                                          questions: e.questions,
+                                          title: e.title)));
                             }))
                         .toList()),
               )
