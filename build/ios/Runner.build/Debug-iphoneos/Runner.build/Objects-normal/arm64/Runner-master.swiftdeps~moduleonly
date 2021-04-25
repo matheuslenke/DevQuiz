@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
-options: "e8d2b2cc686521b6f472971a0a44fd21"
-build_time: [1618871500, 380472000]
-inputs:
-  "/Users/matheuslenke/dev/flutter/flutter-studies/dev_quiz/ios/Runner/AppDelegate.swift": [1617394911, 0]
